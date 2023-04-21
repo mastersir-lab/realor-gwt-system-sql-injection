@@ -17,5 +17,5 @@ java -jar realor-gwt-system-sql-injection.jar
 
 微信公众号：信安驿站
 
-交流群：扫码加群或添加公众号管理员VX
-
+交流群：扫码加群过期请添加公众号站长VX
+![](https://raw.githubusercontent.com/mastersir-lab/realor-gwt-system-sql-injection/main/images/3.jpg)
